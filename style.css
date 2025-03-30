@@ -1,0 +1,109 @@
+body {
+	background-color: #F2DCC2;
+	width: 950px;
+	height: 2500px;
+	margin-top: 50px;
+}
+
+.navbar {
+	height: 100px;
+	width: 1425px;
+	margin-top: -25px;
+	background-color: skyblue;
+}
+
+.logo {
+	height: 500px;
+	width: 1425px;
+	margin-top: 25px;
+	background-color: orangered;
+	float: left;
+}
+
+.jackspic {
+	height: 460px;
+	width: 660px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: yellowgreen;
+}
+
+.sweetspic {
+	height: 460px;
+	width: 660px;
+	margin-top: -459px;
+	margin-right: 20px;
+	float: right;
+	background-color: yellowgreen;
+
+}
+
+.weeklysweets {
+	height: 1510px;
+	width: 700px;
+	float: left;
+	margin-top: 25px;
+	background-color: palevioletred;
+}
+
+.sweetone {
+	height: 460px;
+	width: 660px;
+	margin-left: 20px;
+	margin-top: 70px;
+	background-color: lightyellow;
+
+}
+
+.sweettwo {
+	height: 460px;
+	width: 660px;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: lightyellow;
+
+}
+
+.sweetthree {
+	height: 460px;
+	width: 660px;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: lightyellow;
+
+}
+
+.rightcolumn {
+	height: 1510px;
+	width: 700px;
+	margin-left: 725px;
+	margin-top: 550px;
+	background-color: lightseagreen;
+
+}
+
+.hours {
+	height: 660px;
+	width: 660px;
+	margin-left: 20px;
+	margin-top: 70px;
+	float: left;
+	background-color: orange;
+}
+
+
+.location {
+	height: 660px;
+	width: 660px;
+	margin-left: 20px;
+	margin-top: 100px;
+	float: left;
+	background-color: orange;
+}
+
+.footer {
+	height: 300px;
+	width: 1425px;
+	margin-top: 25px;
+	background-color: mediumpurple;
+}
